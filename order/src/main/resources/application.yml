@@ -71,4 +71,4 @@ spring:
 
 api:
   payment:
-    url: http://localhost:8080
+    url: http://payment:8080
